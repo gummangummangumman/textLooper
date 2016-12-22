@@ -1,6 +1,6 @@
 var text = "this is the text whose letters loop fonts and colours";
-var fonts = ["Times New Roman", "lucida console", "Book Antiqua"];
-var colours = ["green", "blue", "red"];
+var fonts = ["Times New Roman", "lucida console", "Book Antiqua"]; //css attribute font-family
+var colours = ["green", "blue", "red"]; //css attribute color
 var textChangeSpeed = 1000; //time before the next change takes place in miliseconds
 
 
